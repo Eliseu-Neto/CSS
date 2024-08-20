@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  
+  .populous-cities {
+    width: 600px;
+    margin: 0 auto;
+        margin: 0 auto;
+        border-collapse: separate;
+        border-spacing: 0.7px;
+  }
+  
+  caption {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 18px;
+    padding: 5;
+  }
+  
+  .header {
+    background-color:#66C5E3;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 12px;
+    font-family: arial;
+    padding: 3px;
+    
+  }
+  
+  .position {
+    width: 7%;
+    background-color: silver;
+    font-weight: bold;
+    padding: 9px 5%;
+    
+  }
+  
+  .population {
+    width: 15%;
+    background-color: #C7E7F3;
+    font-weight: bold;
+    padding: 2px;
+    font-family: Arial;
+  }
+  
+  .cidade {
+    background-color: #C7E7F3;
+    font-weight: bold;
+    padding: 2px;
+    color: #0D5188;
+    font-family: arial;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #66C5E3;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #0D5188;
+   
+
+  }
+  .cabeca {
+    color: white;
+  }
+  
+  td {
+    font-size: 12px;
+  }
